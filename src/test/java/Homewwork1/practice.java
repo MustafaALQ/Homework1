@@ -3,8 +3,9 @@ package Homewwork1;
 public class practice {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+//This prints hello
+System.out.println("Hello");
+		
 	}
 
 }
